@@ -48,7 +48,9 @@ C. Descriptive Statistics
 * The median values are close to the means, indicating a balanced data distribution without major outliers.
 * The minimum values (income: USD 534.74, cost: USD 464.49) reflect developing countries with low earnings and expenses, while the maximum values (income: USD 7,976.56, cost: USD 6,981.02) represent high-income economies with higher living standards and costs.
 
-D. Key Insights: **Comparison of Average Monthly Income and Cost of Living by Region**
+D. Key Insights: 
+
+1. Comparison of Average Monthly Income and Cost of Living by Region
 
 This chart compares the average monthly income and cost of living in different regions.
 * Europe and Asia have the highest incomes, with income slightly higher than the cost of living.
@@ -57,3 +59,12 @@ This chart compares the average monthly income and cost of living in different r
 * Overall, higher-income regions also have higher living costs, showing a close relationship between the two factors.
 
 <img width="1036" height="477" alt="image" src="https://github.com/user-attachments/assets/ebc39a01-9034-48ca-9c07-6900e176a40f" />
+
+2. Income vs. Cost of Living
+
+The scatter chart illustrates the relationship between Average Monthly Income and Cost of Living across 199 observations.  
+* The data points are widely dispersed, showing no clear linear correlation between the two variables.  
+* Some countries with higher living costs do not necessarily have higher incomes, while others with moderate costs achieve relatively high earnings.  
+* This suggests that income and living expenses vary independently across regions, influenced by factors such as economic structure, purchasing power, and local price levels.
+
+<img width="852" height="428" alt="image" src="https://github.com/user-attachments/assets/de20c864-2367-4e7a-84f6-82ab32e14f7c" />
